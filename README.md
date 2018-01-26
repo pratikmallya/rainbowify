@@ -1,0 +1,2 @@
+# rainbowify
+Create rainbow gifs
